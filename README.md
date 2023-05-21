@@ -50,15 +50,15 @@
 ## OUTPUT
 ## X-axis assembly
 ![x-axis](https://github.com/abinayasangeetha/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119393675/f9410038-572f-490d-aba3-74c2b0ecb0d0)
-Smooth Rod : 
+##Smooth Rod : 
        A smooth rod, also known as a linear shaft or linear rod, is a key component in a 3D printer machine. It is typically made of hardened steel or other materials with low friction properties. 
-Bearing : 
+##Bearing : 
        In a 3D printer machine, bearings are mechanical components that facilitate smooth and precise motion. They are used to reduce friction and enable the linear movement of various parts, such as the print head, build platform, or other movable components.
-Idler :
+##Idler :
        An idler refers to a component that helps guide and tension the filament during the printing process. It is also known as a filament idler or filament tensioner.
-Extruder:
+##Extruder:
        The extruder is a fundamental component of a 3D printer machine responsible for melting and depositing the filament material to create the printed object.
-Motor: 
+##Motor: 
        A motor is an electromechanical device that converts electrical energy into mechanical energy, providing rotational or linear motion. In the context of a 3D printer machine, motors play a critical role in driving various moving parts and enabling precise movements.
        
 ## Y-axis assembly
