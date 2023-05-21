@@ -49,6 +49,8 @@
 
 ## OUTPUT
 ## X-axis assembly
+
+
 ![x-axis](https://github.com/abinayasangeetha/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119393675/f9410038-572f-490d-aba3-74c2b0ecb0d0)
 ### Smooth Rod : 
        A smooth rod, also known as a linear shaft or linear rod, is a key component in a 3D printer machine. It is typically made of hardened steel or other materials with low friction properties. 
@@ -62,6 +64,8 @@
        A motor is an electromechanical device that converts electrical energy into mechanical energy, providing rotational or linear motion. In the context of a 3D printer machine, motors play a critical role in driving various moving parts and enabling precise movements.
        
 ## Y-axis assembly
+
+
 ![Y-axis](https://github.com/abinayasangeetha/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119393675/1034ce66-c722-4da2-8f4b-3e6cab306280)
 ### Y-Axis Supporter :
        The Y-axis supporter in a 3D printer machine refers to the structural component or mechanism that supports and guides the movement along the Y-axis. 
@@ -81,6 +85,8 @@ Horiz. & Vertical Threaded Rod :
 ### Y-Axis Base :
        The Y-axis base refers to the foundation or supporting structure upon which the Y-axis assembly is mounted or attached.
 ## Z-axis assembly
+
+
 ![Z-axis](https://github.com/abinayasangeetha/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119393675/f899db4f-145a-4870-8a61-9e64b867b2e4)
 ### Z-Axis Rod :
         The Z-axis rod, also known as the vertical or height rod, is a component of a mechanical system that enables vertical movement along the Z-axis. It is commonly found in various applications, including CNC machines, 3D printers, and robotic systems.
@@ -90,6 +96,8 @@ Horiz. & Vertical Threaded Rod :
         A motor is an electromechanical device that converts electrical energy into mechanical energy to produce motion or perform work. It is a fundamental component in various machines, devices, and systems across multiple industries.
 
 ## Complete axis assembly
+
+
 ![commpleted Assembly](https://github.com/abinayasangeetha/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119393675/dc14c65c-7f2e-4f73-a7f9-802b330d5052)
 ### Frame :
         The term "frame" typically refers to the structural framework or chassis that encompasses and supports the entire system. It serves as the main structure that holds together all the components and subsystems, providing stability, strength, and protection.
