@@ -52,60 +52,60 @@
 ![x-axis](https://github.com/abinayasangeetha/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119393675/f9410038-572f-490d-aba3-74c2b0ecb0d0)
 ### Smooth Rod : 
        A smooth rod, also known as a linear shaft or linear rod, is a key component in a 3D printer machine. It is typically made of hardened steel or other materials with low friction properties. 
-## Bearing : 
+### Bearing : 
        In a 3D printer machine, bearings are mechanical components that facilitate smooth and precise motion. They are used to reduce friction and enable the linear movement of various parts, such as the print head, build platform, or other movable components.
-## Idler :
+### Idler :
        An idler refers to a component that helps guide and tension the filament during the printing process. It is also known as a filament idler or filament tensioner.
-## Extruder:
+### Extruder:
        The extruder is a fundamental component of a 3D printer machine responsible for melting and depositing the filament material to create the printed object.
-## Motor: 
+### Motor: 
        A motor is an electromechanical device that converts electrical energy into mechanical energy, providing rotational or linear motion. In the context of a 3D printer machine, motors play a critical role in driving various moving parts and enabling precise movements.
        
 ## Y-axis assembly
 ![Y-axis](https://github.com/abinayasangeetha/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119393675/1034ce66-c722-4da2-8f4b-3e6cab306280)
-Y-Axis Supporter :
+### Y-Axis Supporter :
        The Y-axis supporter in a 3D printer machine refers to the structural component or mechanism that supports and guides the movement along the Y-axis. 
 Horiz. & Vertical Threaded Rod :
        A horizontal threaded rod is typically used in a 3D printer to drive the movement along the X-axis or Y-axis.
        A vertical threaded rod, also known as a lead screw, is commonly used to control the movement along the Z-axis in a 3D printer.
-Smooth Rod :
+### Smooth Rod :
        A smooth rod, also known as a linear shaft or linear rod, is a cylindrical component used in various applications, including 3D printer machines, CNC machines, robotics, and other precision mechanisms.
        
-Pulley :
+### Pulley :
        A pulley in the Y-axis assembly refers to a pulley system incorporated into a mechanism or assembly specifically designed for vertical movement along the Y-axis.
 
-Motor :
+### Motor :
        A motor in the Y-axis assembly refers to a motor that is incorporated into a mechanism or system designed to move an object along the vertical or Y-axis direction.
-Y-Axis Frame :
+### Y-Axis Frame :
        The Y-axis frame refers to the structural framework or assembly that supports and guides movement along the Y-axis in a mechanical system
-Y-Axis Base :
+### Y-Axis Base :
        The Y-axis base refers to the foundation or supporting structure upon which the Y-axis assembly is mounted or attached.
 ## Z-axis assembly
 ![Z-axis](https://github.com/abinayasangeetha/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119393675/f899db4f-145a-4870-8a61-9e64b867b2e4)
-Z-Axis Rod :
+### Z-Axis Rod :
         The Z-axis rod, also known as the vertical or height rod, is a component of a mechanical system that enables vertical movement along the Z-axis. It is commonly found in various applications, including CNC machines, 3D printers, and robotic systems.
-Z-Axis Top Cover :
+### Z-Axis Top Cover :
         The Z-axis top cover refers to a protective cover or enclosure that is positioned at the top of the Z-axis assembly in a mechanical system. It is designed to provide protection, safety, and sometimes aesthetic appeal to the components located in the upper portion of the Z-axis.     
-Motor :
+### Motor :
         A motor is an electromechanical device that converts electrical energy into mechanical energy to produce motion or perform work. It is a fundamental component in various machines, devices, and systems across multiple industries.
 
 ## Complete axis assembly
 ![commpleted Assembly](https://github.com/abinayasangeetha/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119393675/dc14c65c-7f2e-4f73-a7f9-802b330d5052)
-Frame :
+### Frame :
         The term "frame" typically refers to the structural framework or chassis that encompasses and supports the entire system. It serves as the main structure that holds together all the components and subsystems, providing stability, strength, and protection.
-Y-Axis assembly :
+### Y-Axis assembly :
         The Y-axis assembly refers to the collection of components and subsystems that enable movement along the Y-axis in a mechanical system. 
-Z-Axis Assembly :
+### Z-Axis Assembly :
         The Z-axis assembly refers to the collection of components and subsystems that enable movement along the Z-axis in a mechanical system. The Z-axis typically represents the vertical or height direction in a Cartesian coordinate system.
- X-Axis Assembly :
+ ### X-Axis Assembly :
         The X-axis assembly refers to the collection of components and subsystems that enable movement along the X-axis in a mechanical system. The X-axis typically represents the horizontal or left-right direction in a Cartesian coordinate system.
- SMPS :
+ ### SMPS :
          SMPS stands for Switched-Mode Power Supply. It is a type of power supply that converts electrical power from one form to another using electronic switching devices, such as transistors or MOSFETs.
- LCD :
+ ### LCD :
          An LCD (Liquid Crystal Display) is commonly used in 3D printer machines as a user interface or display panel. It provides visual feedback, status information, and control options for the printer's operation.
- Spool Holder :
+###  Spool Holder :
          A spool holder in a 3D printer machine is a component or mechanism designed to hold the filament spool securely and provide a smooth and controlled feeding of the filament into the printer.
-Spool:
+### Spool:
          A spool, in the context of 3D printing, refers to a cylindrical object on which filament is wound. It is a container or reel-like structure that holds the filament and allows it to unwind smoothly during the printing process
 ## Playing with Axis
 ![Playing with axes](https://github.com/abinayasangeetha/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119393675/dbde4748-7688-4bb7-a989-51fa42f7180b)
