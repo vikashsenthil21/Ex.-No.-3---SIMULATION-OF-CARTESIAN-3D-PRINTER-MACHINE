@@ -50,7 +50,7 @@
 ## OUTPUT
 ## X-axis assembly
 ![x-axis](https://github.com/abinayasangeetha/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119393675/f9410038-572f-490d-aba3-74c2b0ecb0d0)
-## Smooth Rod : 
+### Smooth Rod : 
        A smooth rod, also known as a linear shaft or linear rod, is a key component in a 3D printer machine. It is typically made of hardened steel or other materials with low friction properties. 
 ## Bearing : 
        In a 3D printer machine, bearings are mechanical components that facilitate smooth and precise motion. They are used to reduce friction and enable the linear movement of various parts, such as the print head, build platform, or other movable components.
